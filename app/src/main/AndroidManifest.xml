@@ -21,7 +21,8 @@
         <activity android:name=".tableLa" />
         <activity android:name=".FramelaActivity" />
         <activity android:name=".ListViewActivity" />
-        <activity android:name=".grid"></activity>
+        <activity android:name=".grid" />
+        <activity android:name=".ScrollV"></activity>
     </application>
 
 </manifest>
